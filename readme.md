@@ -3,7 +3,7 @@
   <img width="460" height="300" src="https://github.com/Piyushoberoy/VERONICA/assets/68097992/37c2c713-6c54-4faf-a10a-9d66a45c9590">
 </p>
 
-Veronica is my companion, powered by cutting-edge Generative AI technology. Whether you need answers to questions, help with tasks, or even technical troubleshooting, Veronica has you covered.
+Veronica is all-in-one personal assistant, powered by cutting-edge Generative AI technology. Whether you need answers to questions, help with tasks, or even technical troubleshooting, Veronica has you covered.
 
 ## Features
 
