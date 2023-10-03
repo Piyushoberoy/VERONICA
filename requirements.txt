@@ -1,4 +1,4 @@
 pyttsx3
 PyAudio
-speech_recognition
+SpeechRecognition
 google-generativeai
