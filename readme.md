@@ -1,4 +1,4 @@
-# Veronica: My Companion
+# VERONICA: My Companion
 <p align="center">
   <img width="460" height="300" src="https://github.com/Piyushoberoy/VERONICA/assets/68097992/37c2c713-6c54-4faf-a10a-9d66a45c9590">
 </p>
